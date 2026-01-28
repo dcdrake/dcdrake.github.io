@@ -1,0 +1,16 @@
+title: Dylan Drake
+description: Observations on software and the people who build it
+url: ""
+baseurl: ""
+
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
