@@ -10,6 +10,6 @@ This blog is where I write about what I've observed—not just about code, but a
 
 I'm particularly interested in the space between technical systems and human systems, and what happens when they meet.
 
-You can find me on [LinkedIn](https://linkedin.com/in/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/dylancdrake).
 
 </div>
